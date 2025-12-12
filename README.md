@@ -23,18 +23,6 @@ It supports **both Spanish and English** thanks to an integrated translation ste
 - [Deep Translator](https://pypi.org/project/deep-translator/) for automatic translation
 - [Streamlit](https://streamlit.io/) for the web interface
 
-## 📂 Project Structure
-├── bert.py # Embedding generation and preprocessing
-├── catboost_train.py # Model training script
-├── console_predicts.py # predictions script for console testing
-├── app.py # Streamlit web app
-├── train.txt # Training dataset
-├── test.txt # Testing dataset
-├── catboost_emociones.cbm # Trained CatBoost model
-├── label_encoder.pkl # Saved LabelEncoder for decoding predictions
-└── README.md
-
-
 ## 📦 Installation
 1. Clone this repository:
 ```bash
